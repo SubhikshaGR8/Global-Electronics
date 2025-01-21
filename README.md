@@ -1,0 +1,31 @@
+## DATA CLEANING AND PREPARATION:
+![image](https://github.com/user-attachments/assets/95e913c8-ffab-48f5-8cf9-471a215b305f)
+
+## DATA SET PROCESSING:
+  1.	Analyzed the data and converted into DataFrame:
+  2.	Handled the missing values – “Unknown” and saved that file:
+  3.	Formatting particular columns:
+  4.	Cleaned and saved to new CSV files:
+     
+## SQL: 
+  1. By using create_engine from the sqlalchemy the preprocessed cleaned datafiles are loaded into the MySQL Database 
+  2. Utilized advanced SQL queries to extract, manipulate, and analyze data, providing actionable business insights and supporting data-driven decision-making.
+     
+## POWER BI VISUVALIZATION:     
+BUSINESS OUTCOMES >>>>> 
+  1.PRODUCT ANALYSIS:
+  •	Product Popularity: Identify the most and least popular products based on sales data.
+  •	Profitability Analysis: Calculate profit margins for products by comparing unit cost and unit price.
+  •	Category Analysis: Analyze sales performance across different product categories and subcategories.
+  ![image](https://github.com/user-attachments/assets/0cfc76e8-cc24-4d6d-8237-6dd5a447e074)
+
+  2.CUSTOMER ANALYSIS:
+  •	Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
+  •	Purchase Patterns: Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
+  •	Segmentation: Segment customers based on demographics and purchasing behavior to identify key customer groups.
+  ![image](https://github.com/user-attachments/assets/6505c82f-4217-4683-b79d-090b8f274e44)
+
+
+
+  
+       	
