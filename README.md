@@ -14,18 +14,18 @@
      
 ## POWER BI VISUVALIZATION:  
 
-BUSINESS OUTCOMES >>>>> 
-    1.PRODUCT ANALYSIS:
-  •	Product Popularity: Identify the most and least popular products based on sales data.
-  •	Profitability Analysis: Calculate profit margins for products by comparing unit cost and unit price.
-  •	Category Analysis: Analyze sales performance across different product categories and subcategories.
+📈BUSINESS OUTCOMES >>>>> 
+1️⃣PRODUCT ANALYSIS:
+  1. Product Popularity: Identify the most and least popular products based on sales data.
+  2. Profitability Analysis: Calculate profit margins for products by comparing unit cost and unit price.
+  3. Category Analysis: Analyze sales performance across different product categories and subcategories.
   
   ![image](https://github.com/user-attachments/assets/0cfc76e8-cc24-4d6d-8237-6dd5a447e074)
 
-  2.CUSTOMER ANALYSIS:
-  •	Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
-  •	Purchase Patterns: Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
-  •	Segmentation: Segment customers based on demographics and purchasing behavior to identify key customer groups.
+2️⃣CUSTOMER ANALYSIS:
+  1.Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
+  2.Purchase Patterns: Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
+  3.Segmentation: Segment customers based on demographics and purchasing behavior to identify key customer groups.
   
   ![image](https://github.com/user-attachments/assets/6505c82f-4217-4683-b79d-090b8f274e44)
 
